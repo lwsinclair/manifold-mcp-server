@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/bmorphism-manifold-mcp-server)
+
 # Manifold Markets MCP Server
 
 An MCP server for interacting with Manifold Markets prediction markets. This server provides comprehensive access to Manifold's features through a clean MCP interface, enabling sophisticated market interactions and collective intelligence mechanisms.
